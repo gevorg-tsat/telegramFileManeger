@@ -1,5 +1,5 @@
-token = '5341554779:AAGwCvXCuATHBCT2uF1RK4WbbKeQ-9hNSys'
+token = ''
 host='127.0.0.1'
 login = 'postgres'
-password = 'khekhekhe'
+password = ''
 db_name = 'postgres'
